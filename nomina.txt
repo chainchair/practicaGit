@@ -1,1 +1,9 @@
 nomina empresa a
+
+contrados:
+empleado1: 20000
+empleado2: 23000
+jefe: 50000
+
+despedidos:
+conserje1: fired
