@@ -4,6 +4,11 @@ contrados:
 empleado1: 20000
 empleado2: 23000
 jefe: 50000
+mid-jefe: 30000
+empleado3: 20000
+empleado4: 20000
+empleado5: 20000
+empleado6: 25000
 
 despedidos:
 conserje1: fired
